@@ -12,3 +12,10 @@ See the Blinkit dashboard here- [Blinkit powerbi link] (https://app.powerbi.com/
 ![Blinkit sales dashboard page 1](BlinkitPage1.png)
 
 ![Blinkit sales dashboard page 1](Blinkitpage2.png)
+
+
+See the E-Commerce  dashboard here- [E-commerce powerbi link] (https://app.powerbi.com/reportEmbed?reportId=4eb047e6-4c3f-4c01-a97c-e3c237780302&autoAuth=true&ctid=3aa4a235-b6e2-48d5-9195-7fcf05b459b0)
+
+![E-Commerce sales dashboard page 1](ecommercepbi.png)
+
+
